@@ -1,0 +1,2 @@
+# Algo-Trading-Bot
+This Python script implements an automated trading strategy using Lumibot and Alpaca API. It uses FinBERT, a financial sentiment analysis model, to analyze recent news about the SPY ETF. Based on the sentiment (positive or negative), it decides whether to buy or sell SPY, with proper stop-loss and take-profit conditions. The strategy is tested on historical data using Yahoo Finance data.
