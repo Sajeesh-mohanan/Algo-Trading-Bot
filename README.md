@@ -14,6 +14,12 @@ This project implements an algorithmic trading strategy that makes intelligent b
 
 ---
 
+## 🖼️ Output
+
+![alt text](Output-example-1.png)
+
+---
+
 ## 🧠 Strategy Logic
 
 | Condition | Action |
