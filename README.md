@@ -14,9 +14,13 @@ This project implements an algorithmic trading strategy that makes intelligent b
 
 ---
 
-## 🖼️ Output
+## 🖼️ Example Output
 
-![alt text](Output-example-1.png)
+![alt text](Output_images/Output-example-1.png)
+
+![alt text](Output_images/Output-example-2.png)
+
+![alt text](Output_images/Output-example-3.png)
 
 ---
 
